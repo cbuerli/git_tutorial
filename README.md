@@ -1,2 +1,2 @@
 # git_tutorial
-git tutorial test
+Temp repositora git tutorial
